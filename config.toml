@@ -15,7 +15,7 @@ enableEmoji = true
 [params]
 title = "Patrick Rodrigues"
 author = "Patrick Rodrigues"
-description = "Python Live Coder"
+description = "Software Engineer and Live Coder"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -28,9 +28,9 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 [[params.socialIcons]]
-icon = "fa-linkedin"
-title = "Linkedin"
-url = "https://linkedin.com/in/pythrick"
+icon = "fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/pythrick"
 
 [[params.socialIcons]]
 icon = "fa-github"
@@ -40,7 +40,18 @@ url = "https://github.com/pythrick"
 [[params.socialIcons]]
 icon = "fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/pythrick"
+url = "https://www.instagram.com/pythrick_"
+
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/in/pythrick"
+
+[[params.socialIcons]]
+icon = "fa-facebook"
+title = "Facebook"
+url = "https://facebook.com/pythrick"
+
 
 [[params.socialIcons]]
 icon = "fa-envelope"
@@ -50,7 +61,6 @@ url = "mailto:pythrick@gmail.com"
 ## Menu items
 
 [menu]
-
   [[menu.main]]
   name = "Home"
   identifier = "home"
